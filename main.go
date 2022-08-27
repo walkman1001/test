@@ -3,8 +3,9 @@ import(
  "fmt
 )
 func main(){
-  fmt.Println("test——02") 
+
  fmt.Println("walkman")
  fmt.Println("test333")
+ fmt.PrintLn("add one line")
  
 }
